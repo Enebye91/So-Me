@@ -93,7 +93,7 @@ main {
   padding: 0rem 2rem;
 }
 
-.games {
+.So-Me {
   flex: 2;
 }
 
@@ -116,7 +116,7 @@ font-weight: 600;
   margin-bottom: 3rem;
 }
 
-.games {
+.So-Me {
   margin: 5rem;
   display: flex;
   flex-direction:  column;
